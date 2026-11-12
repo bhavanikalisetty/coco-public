@@ -1,0 +1,6 @@
+.pio/
+.local/
+__pycache__/
+*.bin
+*.elf
+*.log

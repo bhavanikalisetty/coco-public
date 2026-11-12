@@ -1,0 +1,3 @@
+vendor/** linguist-vendored
+include/badge_assets.h linguist-generated
+include/tls_roots.h linguist-generated

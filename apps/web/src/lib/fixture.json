@@ -1,0 +1,372 @@
+{
+  "me": {
+    "personId": "preview",
+    "companyId": "preview"
+  },
+  "conference": {
+    "id": "enter_si_era_2026",
+    "name": "Enter the SI Era",
+    "venue": "Moscone West",
+    "isFictional": true,
+    "time": "2026-10-24T10:45:00-07:00",
+    "clockMode": "demo"
+  },
+  "people": [
+    {
+      "id": "person_maya",
+      "name": "Maya Chen",
+      "isFictional": true
+    },
+    {
+      "id": "person_leo",
+      "name": "Leo Martinez",
+      "isFictional": true
+    },
+    {
+      "id": "person_nia",
+      "name": "Nia Okafor",
+      "isFictional": true
+    },
+    {
+      "id": "person_sam",
+      "name": "Samir Rao",
+      "isFictional": true
+    },
+    {
+      "id": "person_jules",
+      "name": "Jules Park",
+      "isFictional": true
+    },
+    {
+      "id": "person_erin",
+      "name": "Erin Brooks",
+      "isFictional": true
+    }
+  ],
+  "sessions": [
+    {
+      "id": "s01",
+      "title": "Welcome: Agents That Finish the Job",
+      "room": "f2_harbor",
+      "speakers": [
+        "maya"
+      ],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T09:00:00-07:00",
+      "endsAt": "2026-10-24T09:20:00-07:00"
+    },
+    {
+      "id": "s02",
+      "title": "Browser Agents in the Wild",
+      "room": "f2_harbor",
+      "speakers": [
+        "sam"
+      ],
+      "topics": [
+        "browser",
+        "reliability"
+      ],
+      "startsAt": "2026-10-24T09:30:00-07:00",
+      "endsAt": "2026-10-24T10:10:00-07:00"
+    },
+    {
+      "id": "s03",
+      "title": "Memory You Can Query",
+      "room": "f2_summit",
+      "speakers": [
+        "leo"
+      ],
+      "topics": [
+        "memory"
+      ],
+      "startsAt": "2026-10-24T09:30:00-07:00",
+      "endsAt": "2026-10-24T10:10:00-07:00"
+    },
+    {
+      "id": "s04",
+      "title": "MCP Tool Clinic",
+      "room": "f2_lab",
+      "speakers": [
+        "sam"
+      ],
+      "topics": [
+        "mcp"
+      ],
+      "startsAt": "2026-10-24T10:15:00-07:00",
+      "endsAt": "2026-10-24T10:45:00-07:00"
+    },
+    {
+      "id": "s05",
+      "title": "Coffee Commons: Meet Outside Your Bubble",
+      "room": "f1_coffee",
+      "speakers": [],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T10:45:00-07:00",
+      "endsAt": "2026-10-24T11:15:00-07:00"
+    },
+    {
+      "id": "s06",
+      "title": "Evals Before Autonomy",
+      "room": "f2_harbor",
+      "speakers": [
+        "sam"
+      ],
+      "topics": [
+        "reliability"
+      ],
+      "startsAt": "2026-10-24T11:00:00-07:00",
+      "endsAt": "2026-10-24T11:30:00-07:00"
+    },
+    {
+      "id": "s07",
+      "title": "Agents Beyond the Usual Users",
+      "room": "f2_summit",
+      "speakers": [
+        "jules"
+      ],
+      "topics": [
+        "accessibility"
+      ],
+      "startsAt": "2026-10-24T11:00:00-07:00",
+      "endsAt": "2026-10-24T11:30:00-07:00"
+    },
+    {
+      "id": "s08",
+      "title": "Graphs for Customer Memory",
+      "room": "f2_summit",
+      "speakers": [
+        "leo"
+      ],
+      "topics": [
+        "memory",
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T11:30:00-07:00",
+      "endsAt": "2026-10-24T12:00:00-07:00"
+    },
+    {
+      "id": "s09",
+      "title": "Lunch Circles",
+      "room": "f1_coffee",
+      "speakers": [],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T12:00:00-07:00",
+      "endsAt": "2026-10-24T12:45:00-07:00"
+    },
+    {
+      "id": "s10",
+      "title": "Voice Agents Away from the Desk",
+      "room": "f2_harbor",
+      "speakers": [
+        "erin"
+      ],
+      "topics": [
+        "voice"
+      ],
+      "startsAt": "2026-10-24T12:45:00-07:00",
+      "endsAt": "2026-10-24T13:15:00-07:00"
+    },
+    {
+      "id": "s11",
+      "title": "Creator Workflows Without the Copy-Paste",
+      "room": "f2_lab",
+      "speakers": [
+        "nia"
+      ],
+      "topics": [
+        "creator",
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T12:45:00-07:00",
+      "endsAt": "2026-10-24T13:15:00-07:00"
+    },
+    {
+      "id": "s12",
+      "title": "From Conversation to Customer Follow-Up",
+      "room": "f2_harbor",
+      "speakers": [
+        "maya"
+      ],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T13:30:00-07:00",
+      "endsAt": "2026-10-24T14:00:00-07:00"
+    },
+    {
+      "id": "s13",
+      "title": "Reliable Tools and Agent Permissions",
+      "room": "f2_summit",
+      "speakers": [
+        "sam"
+      ],
+      "topics": [
+        "reliability",
+        "mcp"
+      ],
+      "startsAt": "2026-10-24T13:30:00-07:00",
+      "endsAt": "2026-10-24T14:00:00-07:00"
+    },
+    {
+      "id": "s14",
+      "title": "Browser Agent Pit Stop and Memory Clinic",
+      "room": "f1_booth_hall",
+      "speakers": [],
+      "topics": [
+        "browser",
+        "memory"
+      ],
+      "startsAt": "2026-10-24T14:00:00-07:00",
+      "endsAt": "2026-10-24T14:30:00-07:00"
+    },
+    {
+      "id": "s15",
+      "title": "Build a Conference Companion",
+      "room": "f2_lab",
+      "speakers": [
+        "jules",
+        "erin"
+      ],
+      "topics": [
+        "accessibility",
+        "voice"
+      ],
+      "startsAt": "2026-10-24T14:30:00-07:00",
+      "endsAt": "2026-10-24T15:00:00-07:00"
+    },
+    {
+      "id": "s16",
+      "title": "Prompt Karaoke",
+      "room": "f1_coffee",
+      "speakers": [],
+      "topics": [
+        "reliability"
+      ],
+      "startsAt": "2026-10-24T15:00:00-07:00",
+      "endsAt": "2026-10-24T15:15:00-07:00"
+    },
+    {
+      "id": "s17",
+      "title": "No-Slide Demos",
+      "room": "f2_harbor",
+      "speakers": [
+        "maya",
+        "leo",
+        "nia",
+        "sam",
+        "jules",
+        "erin"
+      ],
+      "topics": [
+        "browser",
+        "memory",
+        "voice"
+      ],
+      "startsAt": "2026-10-24T15:15:00-07:00",
+      "endsAt": "2026-10-24T16:00:00-07:00"
+    },
+    {
+      "id": "s18",
+      "title": "Coffee, Walk, or One Last Introduction",
+      "room": "f1_coffee",
+      "speakers": [],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T16:00:00-07:00",
+      "endsAt": "2026-10-24T16:30:00-07:00"
+    },
+    {
+      "id": "s19",
+      "title": "What Did We Actually Learn?",
+      "room": "f2_summit",
+      "speakers": [
+        "erin"
+      ],
+      "topics": [
+        "memory",
+        "voice"
+      ],
+      "startsAt": "2026-10-24T16:30:00-07:00",
+      "endsAt": "2026-10-24T17:00:00-07:00"
+    },
+    {
+      "id": "s20",
+      "title": "Closing and Tomorrow's Promises",
+      "room": "f2_harbor",
+      "speakers": [
+        "maya"
+      ],
+      "topics": [
+        "workflow"
+      ],
+      "startsAt": "2026-10-24T17:00:00-07:00",
+      "endsAt": "2026-10-24T17:15:00-07:00"
+    }
+  ],
+  "zones": [
+    {
+      "id": "f1_entrance",
+      "name": "Welcome Desk",
+      "floor": 1,
+      "x": 60,
+      "y": 300
+    },
+    {
+      "id": "f1_coffee",
+      "name": "Coffee Commons",
+      "floor": 1,
+      "x": 220,
+      "y": 150
+    },
+    {
+      "id": "f1_booth_hall",
+      "name": "Builder Arcade",
+      "floor": 1,
+      "x": 380,
+      "y": 300
+    },
+    {
+      "id": "f1_stairs",
+      "name": "Stairs to floor 2",
+      "floor": 1,
+      "x": 500,
+      "y": 100
+    },
+    {
+      "id": "f2_stairs",
+      "name": "Stairs to floor 1",
+      "floor": 2,
+      "x": 500,
+      "y": 100
+    },
+    {
+      "id": "f2_harbor",
+      "name": "Harbor Room",
+      "floor": 2,
+      "x": 80,
+      "y": 150
+    },
+    {
+      "id": "f2_summit",
+      "name": "Summit Room",
+      "floor": 2,
+      "x": 270,
+      "y": 150
+    },
+    {
+      "id": "f2_lab",
+      "name": "Workshop Lab",
+      "floor": 2,
+      "x": 380,
+      "y": 300
+    }
+  ],
+  "capabilities": {}
+}
